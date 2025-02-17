@@ -2,7 +2,7 @@
   "name": "app1",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Youssef-Adel-070.github.io/Ecommerce",
+  "homepage": "https://Youssef-Adel-070.github.io/E-commerce",
   "type": "module",
   "scripts": {
     "dev": "vite",
