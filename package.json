@@ -1,11 +1,11 @@
 {
   "name": "app1",
   "private": true,
-  "version": "0.0.0", 
-  "homepage": "https://Youssef-Adel-070.github.io/E-commerce",
+  "version": "0.0.0",
+  "homepage": "https://Youssef-Adel-070.github.io/Ecommerce",
   "type": "module",
   "scripts": {
-    "dev": "vite", 
+    "dev": "vite",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "build": "vite build",
